@@ -1,0 +1,10 @@
+{
+  "description": "AI-powered budgeting app helps international students in Australia manage expenses, forecast finances, find discounts, and save smarter each semester.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
